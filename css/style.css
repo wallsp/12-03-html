@@ -49,3 +49,12 @@ h2{
     background-color: #55a398;
     color: white;
 }
+
+.simple-hex{
+    /*  color: #333333; */
+    color: #333;
+}
+.simple-hex-2{
+    /*  color: #aa55ff;  */
+    color: #a5f; 
+}
