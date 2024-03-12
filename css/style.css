@@ -67,3 +67,27 @@ h2{
     color: rgb(199,21,47);
     
 }
+.rgba{
+    color: rgba(255, 0, 0, 0.3);
+}
+
+.bg-image{
+    background-image: url(../img/nature.jpg);
+    padding: 10px;
+    color: #fff;
+}
+
+.bg-opacity{
+    background-color: green;
+    opacity: 0.8;
+}
+.bg-opacity-2{
+    background-color: #999;
+    color: #000;
+    opacity: 0.8;
+}
+.rgba-opacity{
+    background-color: rgba(90, 12, 20, 0.2);
+    color: #000;
+    opacity: 0.1;
+}
