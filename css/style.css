@@ -35,3 +35,7 @@ h2{
 #algum-titulo{
     border-bottom: 4px solid green;
 }
+
+.color-name{
+    color: crimson;
+}
