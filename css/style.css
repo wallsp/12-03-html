@@ -39,3 +39,13 @@ h2{
 .color-name{
     color: crimson;
 }
+
+.hex{
+    background-color: green;
+    color: white;
+}
+
+.hex-2{
+    background-color: #55a398;
+    color: white;
+}
