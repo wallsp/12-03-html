@@ -91,3 +91,27 @@ h2{
     color: #000;
     opacity: 0.1;
 }
+
+.centered-bg,
+.not-centered-bg{
+
+    background-image: url(../img/bridge.jpg);
+    height: 400px;
+    width: 400px;
+
+}
+
+.centered-bg{
+    border: 4px dotted purple;
+    background-position: center;
+}
+
+.without-padding,
+.padding{
+    background-color: #111;
+    color: #fff;
+}
+.padding{
+    background-color: #333;
+    padding: 20px;
+}
